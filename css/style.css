@@ -1,0 +1,19 @@
+.header, .hero, .body, .ber, .fotter{
+    background-color: tomato;
+    margin-bottom: 20px;
+}
+.box{
+    background-color: blueviolet;
+    min-height: 100px;
+    margin: 10px 0px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    line-height: 90px;
+}
+.three{
+    background-color: #000000;
+}
+.five{
+    background-color: blue;
+}
