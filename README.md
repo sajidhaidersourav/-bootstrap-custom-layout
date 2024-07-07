@@ -1,4 +1,4 @@
-# bootstrap-custom-grid
+# bootstrap-custom-layout
 
 bootstrap-grid img 11
 
