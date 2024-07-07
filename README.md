@@ -1,4 +1,5 @@
-# bootstrap-grid
+# bootstrap-custom-grid
+
 bootstrap-grid img 11
 
 live preview:
